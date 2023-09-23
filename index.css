@@ -1,6 +1,7 @@
 #mainDisplay {
-    margin: auto;
+    margin:13% auto;
     max-width: 15em;
+    align-items: center;
   }
   
   #outputDisplay {
